@@ -5,13 +5,13 @@ Este repositório contém uma análise de dados sobre blocos de carnaval, usando
 **Conteúdo**
 
 - `analise_blocos.py` – Script Python com a análise dos dados e geração de gráficos.  
-- `dados.csv` – Arquivo CSV com os dados originais dos blocos.  
+-  dados.csv – Arquivo CSV com os dados originais dos blocos.  
 
 **Descrição da Análise**
 
 O script realiza as seguintes etapas:
 
-1. Carregamento dos dados do CSV (`dados.csv`).  
+1. Carregamento dos dados do CSV (dados.csv).  
 2. Conversão da coluna de datas para o formato correto.  
 3. Cálculo da frequência de blocos por dia.  
 4. Geração de gráfico de barras mostrando a quantidade de blocos por dia.  
